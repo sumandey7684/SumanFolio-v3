@@ -17,7 +17,7 @@ I created this website to showcase my work. I’m always striving to create some
 Clone the project
 
 ```bash
-  git clone https://github.com/victorcodess/folio-v1
+  git clone https://github.com/sumandey7684/SumanFolio-v3.git
 ```
 
 Go to the project directory
