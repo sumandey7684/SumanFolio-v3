@@ -50,7 +50,7 @@ export const reviewDetails = [
   },
   {
     name: "Laxminarayan D.",
-    role: "Senior Frontend Engineer",
+    role: "Senior Flutter Developer",
     company: "Motorola",
     profileImg: laxmi,
     testimonial:
