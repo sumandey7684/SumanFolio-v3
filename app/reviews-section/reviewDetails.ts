@@ -43,7 +43,7 @@ export const reviewDetails = [
   {
     name: "Kaustav D.",
     role: "Senior Executive R&D",
-    company: "Mono",
+    company: "HiTech Formulation",
     profileImg: kaustav,
     testimonial:
       "Suman is hardworking and has great sense of ownership. He was able to contribute in engineering excellent user interfaces and user experiences. I’m confident he will be a great asset to any engineering team.",
