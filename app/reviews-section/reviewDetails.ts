@@ -42,19 +42,19 @@ export const reviewDetails = [
   },
   {
     name: "Kaustav D.",
-    role: "Head of Engineering",
+    role: "Senior Executive R&D",
     company: "Mono",
     profileImg: kaustav,
     testimonial:
-      "Suman is hardworking and has great sense of ownership. He was able to contribute in engineering excellent user interfaces and user experiences at Mono. I’m confident he will be a great asset to any engineering team.",
+      "Suman is hardworking and has great sense of ownership. He was able to contribute in engineering excellent user interfaces and user experiences. I’m confident he will be a great asset to any engineering team.",
   },
   {
     name: "Laxminarayan D.",
     role: "Senior Frontend Engineer",
-    company: "Mono",
+    company: "Motorola",
     profileImg: laxmi,
     testimonial:
-      "I had the pleasure of working with Suman on a frontend development project at Mono, and I highly recommend him. He consistently delivered high-quality code, and brought a proactive and creative approach to problem-solving.",
+      "I had I highly recommend him. He consistently delivered high-quality code, and brought a proactive and creative approach to problem-solving.",
   },
   {
     name: "Saswat R.",
